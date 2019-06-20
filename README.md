@@ -21,12 +21,12 @@ I often like to specify my own port for `localhost` to run on. If you wish to do
 * Change the following script from; 
 `"start": "react-scripts start"`
 * To this;
-`"start": "PORT=3006 react-scripts start"`
+`"start": "PORT=6767 react-scripts start"`
 
 ## Windows 
 * Change the following script from; 
 `"start": "react-scripts start"`
 * To this;
-`"start": "set PORT=3006 && react-scripts start"`
+`"start": "set PORT=6767 && react-scripts start"`
 
 
